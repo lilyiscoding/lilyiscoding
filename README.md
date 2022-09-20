@@ -15,3 +15,8 @@
 - 🌱 I’m learning **C++** this coming fall 
 
 - 📝 All of my projects are available [here](https://github.com/lilyiscoding?tab=repositories)
+
+- 📖 Courses currently taking: 
+
+- CourseEra: Meta Front-End Developer, Meta Back-End Developer
+
