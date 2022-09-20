@@ -3,7 +3,7 @@
 
 ⚡ My bio!
 
-- 📈 My first degree was a BA in Public Health at the University of Washington
+- 📈 I have a  BA in Public Health at the University of Washington - Seattle
 
 - 👩🏻‍💻 I'm currently learning how to program!
 
